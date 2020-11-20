@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GanTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_text">Search by name or season:</string>
+    <string name="main_frag_search_error">The seasons of Breaking Bad are between 1 and 5!</string>
+    <string name="toolbar_title">Breaking Bad</string>
+    <string name="details_frag_name">Name:</string>
+    <string name="details_frag_occupation">Occupation:</string>
+    <string name="details_frag_default_txt">NONE or N/A</string>
+    <string name="details_frag_status">Status:</string>
+    <string name="details_frag_nickname">Nickname:</string>
+    <string name="details_frag_appearances">Season appearance:</string>
+    <string name="details_frag_char_details">Character Details:</string>
+</resources>
